@@ -6,7 +6,7 @@ java 版CMS系统、基于java技术研发的内容管理系统、功能：栏�
 
 特点：支持多站点、可以根据需求添加手机站、pc站。
 
-模板采用：freemarker  标签会在官风发布。
+模板采用：freemarker  标签会在官网发布。
 
 项目地址：https://gitee.com/oufu/ofcms   QQ 群: ①185948055 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9c5f0bdc44402195be254668a80a6c5eeebb06f0336e8c5be26878930b88c672"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="OFCMS技术交流" title="OFCMS技术交流"></a> 
 
